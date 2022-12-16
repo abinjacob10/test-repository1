@@ -1,2 +1,2 @@
 Hello Donegal
-This line was changed in Github
+This line was changed in Github.
